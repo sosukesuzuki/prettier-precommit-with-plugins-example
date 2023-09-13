@@ -8,5 +8,3 @@ repos:
           - "prettier-plugin-java@2.3.1"
         types:
           - "java"
-        args:
-          - --plugin=prettier-plugin-java
